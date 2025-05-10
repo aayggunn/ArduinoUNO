@@ -1,5 +1,5 @@
 
-# **📌 UART Haberleşme Projesi / UART Communication Project**  
+# **📌 UART Haberleşme Projesi / UART Communication Project (Universal Asynchronous Receiver-Transmitter) **  
 **🔗 İletişim Protokolü / Communication Protocol:**  
 Seri (Asenkron) Haberleşme / Serial (Asynchronous) Communication
 
