@@ -62,18 +62,6 @@ The NRF24L01 is a low-power, cost-effective wireless communication module operat
 
 ---
 
-## 📚 Kütüphane ve Kod / Library and Code
-
-**Türkçe:**  
-Arduino ile kullanım için [RF24 kütüphanesini](https://github.com/nRF24/RF24) yükleyin.  
-Basit bir örnek gönderici-alıcı projesi ile başlamanızı öneririz.
-
-**English:**  
-Install the [RF24 library](https://github.com/nRF24/RF24) for use with Arduino.  
-It is recommended to start with a basic transmitter-receiver example project.
-
----
-
 ## 📎 Ek Bilgiler / Additional Info
 
 **Türkçe:**  
