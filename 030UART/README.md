@@ -1,4 +1,3 @@
-Here's a professional bilingual README.md with parallel Turkish/English content and enhanced technical details:
 
 # **📌 UART Haberleşme Projesi / UART Communication Project**  
 **🔗 İletişim Protokolü / Communication Protocol:**  
